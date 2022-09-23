@@ -2,13 +2,90 @@
   "users": [
     {
         "id":1,
-      "category": "family",
+      "category": "Family",
       "image_url": "https://images.unsplash.com/photo-1455587734955-081b22074882?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aG90ZWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
       "type_of_room": "AC",
-      "bed_type": "single",
+      "bed_type": "Single",
       "no_of_persons": 4,
       "capacity": 5,
       "cost": 1000,
+      "booked": false
+    },
+    {
+        "id":2,
+      "category": "Family",
+      "image_url": "https://images.unsplash.com/photo-1455587734955-081b22074882?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aG90ZWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "type_of_room": "AC",
+      "bed_type": "Single",
+      "no_of_persons": 4,
+      "capacity": 5,
+      "cost": 5000,
+      "booked": false
+    },
+    {
+        "id":3,
+      "category": "Family",
+      "image_url": "https://images.unsplash.com/photo-1455587734955-081b22074882?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aG90ZWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "type_of_room": "AC",
+      "bed_type": "Single",
+      "no_of_persons": 4,
+      "capacity": 5,
+      "cost": 3000,
+      "booked": false
+    },
+    {
+        "id":4,
+      "category": "Deluxe",
+      "image_url": "https://images.unsplash.com/photo-1455587734955-081b22074882?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aG90ZWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "type_of_room": "Non AC",
+      "bed_type": "Single",
+      "no_of_persons": 4,
+      "capacity": 5,
+      "cost": 1000,
+      "booked": false
+    },
+    {
+        "id":5,
+      "category": "Family",
+      "image_url": "https://images.unsplash.com/photo-1455587734955-081b22074882?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aG90ZWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "type_of_room": "Non AC",
+      "bed_type": "Single",
+      "no_of_persons": 4,
+      "capacity": 5,
+      "cost": 999,
+      "booked": false
+    },
+    {
+        "id":6,
+      "category": "Family",
+      "image_url": "https://images.unsplash.com/photo-1455587734955-081b22074882?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aG90ZWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons": 4,
+      "capacity": 5,
+      "cost": 8000,
+      "booked": false
+    },
+    {
+        "id":7,
+      "category": "Suite",
+      "image_url": "https://images.unsplash.com/photo-1455587734955-081b22074882?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aG90ZWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons": 4,
+      "capacity": 5,
+      "cost": 2000,
+      "booked": false
+    },
+    {
+        "id":8,
+      "category": "Suite",
+      "image_url": "https://images.unsplash.com/photo-1455587734955-081b22074882?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aG90ZWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "type_of_room": "Non AC",
+      "bed_type": "Single",
+      "no_of_persons": 2,
+      "capacity": 2,
+      "cost": 1500,
       "booked": false
     }
   ]
