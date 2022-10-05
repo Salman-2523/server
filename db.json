@@ -6,7 +6,8 @@
       "position": "Senior Software Engineer",
       "postedAt": "5h ago",
       "contract": "Full Time",
-      "location": "United Kingdom"
+      "location": "United Kingdom",
+      "allowance": 4600
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "position": "Haskell and PureScript Dev",
       "postedAt": "20h ago",
       "contract": "Part Time",
-      "location": "United States"
+      "location": "United States",
+      "allowance": 500
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "position": "Midlevel Back End Engineer",
       "postedAt": "1d ago",
       "contract": "Part Time",
-      "location": "Russia"
+      "location": "Russia",
+      "allowance": 5000
     },
     {
       "id": 4,
@@ -30,7 +33,8 @@
       "position": "Senior Application Engineer",
       "postedAt": "2d ago",
       "contract": "Full Time",
-      "location": "Japan"
+      "location": "Japan",
+      "allowance": 3500
     },
     {
       "id": 5,
@@ -38,7 +42,8 @@
       "position": "Remote DevOps Engineer",
       "postedAt": "2d ago",
       "contract": "Part Time",
-      "location": "Japan"
+      "location": "Japan",
+      "allowance": 8000
     },
     {
       "id": 6,
@@ -46,7 +51,8 @@
       "position": "Desktop Support Manager",
       "postedAt": "4d ago",
       "contract": "Part Time",
-      "location": "Germany"
+      "location": "Germany",
+      "allowance": 10000
     },
     {
       "id": 7,
@@ -54,7 +60,8 @@
       "position": "iOS Engineer",
       "postedAt": "1w ago",
       "contract": "Full Time",
-      "location": "United States"
+      "location": "United States",
+      "allowance": 6000
     },
     {
       "id": 8,
@@ -62,7 +69,8 @@
       "position": "Senior EJB Developer",
       "postedAt": "1w ago",
       "contract": "Full Time",
-      "location": "United Kingdom"
+      "location": "United Kingdom",
+      "allowance": 9000
     },
     {
       "id": 9,
@@ -70,7 +78,8 @@
       "position": "Senior Frontend Developer",
       "postedAt": "1w ago",
       "contract": "Part Time",
-      "location": "Singapore"
+      "location": "Singapore",
+      "allowance": 1000
     },
     {
       "id": 10,
@@ -78,7 +87,8 @@
       "position": "App & Website Designer",
       "postedAt": "2w ago",
       "contract": "Freelance",
-      "location": "United States"
+      "location": "United States",
+      "allowance": 7500
     },
     {
       "id": 11,
@@ -86,7 +96,8 @@
       "position": "Fullstack Developer",
       "postedAt": "1mo ago",
       "contract": "Part Time",
-      "location": "New Zealand"
+      "location": "New Zealand",
+      "allowance": 13000
     },
     {
       "id": 12,
@@ -94,7 +105,8 @@
       "position": "Technical Lead Engineer",
       "postedAt": "1mo ago",
       "contract": "Part Time",
-      "location": "United Kingdom"
+      "location": "United Kingdom",
+      "allowance": 3600
     }
   ]
 }
