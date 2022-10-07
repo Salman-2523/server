@@ -3,13 +3,8 @@
     {
       "id": 1,
       "name": "Salman",
-      "category": "Sports",
-      "difficulty": "Hard",
-      "number_of_questions": 10,
-      "correct_answers": 0,
-      "incorrect_answers": 0,
-      "total_score": "",
-      "percentage": ""
+      "category": "Sports"
+      
     }
   ]
 }
