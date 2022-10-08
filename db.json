@@ -3,8 +3,8 @@
     {
       "id": 1,
       "name": "Salman",
-      "category": "Sports"
-      
+      "difficulty": "medium",
+      "score": 0
     }
   ]
 }
